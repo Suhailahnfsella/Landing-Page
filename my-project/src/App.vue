@@ -8,7 +8,6 @@
         color: "bg-orange",
     },
     {
-        // icon: LocationIcon,
         icon:'src/icon/location.svg',
         title: "Work Anywhere",
         description:
@@ -16,7 +15,6 @@
         color: "bg-blue",
     },
     {
-        // icon: ProfileIcon,
         icon:'src/icon/profile.svg',
         title: "Improved Inclusivity",
         description:
